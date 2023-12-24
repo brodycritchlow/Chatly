@@ -14,7 +14,7 @@
 **2nd  Terminal**
 > ```bash
 > cd chatly
-> cd chatly-web
+> cd web-service
 > npm i
 > npm run dev
 > ```
